@@ -57,12 +57,12 @@ export default async function Footer() {
           </p>
           <hr className="mx-4 hidden h-4 w-[1px] border-l border-neutral-400 md:inline-block" />
           <p>
-            <a href="https://github.com/vercel/commerce">View the source</a>
+            <a href="https://https://github.com/DaiHai027/Acme-Store">View the source</a>
           </p>
           <p className="md:ml-auto">
-            <a href="https://vercel.com" className="text-black dark:text-white">
-              Created by ▲ Vercel
-            </a>
+            <p className="text-black dark:text-white">
+              Created by ACME
+            </p>
           </p>
         </div>
       </div>
